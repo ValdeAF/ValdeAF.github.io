@@ -1,0 +1,30 @@
+#Container{ /*ClassContainer*/
+width: 100%; /*ClassContainerWidth*/
+background-color: white; /*ClassContainerBgColor*/
+} /*ClassContainerEnd*/
+#Header{ /*ClassHeader*/
+width: 100%; /*ClassHeaderWidth*/
+height: 35px; /*ClassHeaderHeight*/
+background-color: rgba(128, 128, 128); /*ClassHeaderBgColor*/
+} /*ClassHeaderEnd*/
+#Content{ /*ClassContent*/
+width: 500px; /*ClassContentWidth*/
+height: 1000px; /*ClassContentHeight*/
+background-color: white; /*ClassContentBgColor*/ } /*ClassContentEnd*/
+#LeftBar{ /*ClassLeftBar*/
+float: left; /*ClassLeftBarFloatLeft*/
+width: 230px; /*ClassLeftBarWidth*/
+height: 1000px; /*ClassLeftBarHeight*/
+background-color: rgb(99, 97, 97); /*ClassLeftBarBgColor*/
+} /*ClassLeftBarEnd*/
+#RightBar{ /*ClassRightBar*/
+float: right; /*ClassRightBarFloatRight*/
+width: 230px; /*ClassRightBarWidth*/
+height: 1000px; /*ClassRightBarHeight*/
+background-color: rgb(99, 97, 97); /*ClassRightBarBgColor*/
+} /*ClassRightBarEnd*/
+#Footer{ /*ClassFooter*/
+clear: both; /*ClassFooterClearBoth*/
+height: 25px; /*ClassFooterHeight*/
+background-color: gray; /*ClassFooterBgColor*/
+} /*ClassFooterEnd*/
